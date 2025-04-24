@@ -1,0 +1,18 @@
+[
+    {
+      "question": "He ___ to school by bike.",
+      "options": ["go", "goes", "went", "going"],
+      "correct": 1
+    },
+    {
+      "question": "I ___ coffee every morning.",
+      "options": ["drinks", "drink", "drinking", "drunk"],
+      "correct": 1
+    },
+    {
+      "question": "They ___ English at school.",
+      "options": ["study", "studies", "studying", "studied"],
+      "correct": 0
+    }
+  ]
+  
